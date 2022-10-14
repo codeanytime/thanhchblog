@@ -65,6 +65,7 @@ local.properties
 *.orig
 classes/
 out/
+.java-version
 
 ######################
 # Visual Studio Code
